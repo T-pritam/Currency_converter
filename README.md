@@ -1,5 +1,6 @@
 # Currency Converter
 This is a straightforward currency converter application built using Django. It allows users to convert between various currencies quickly and efficiently, without requiring any user login or registration.
+<img width="958" alt="Capture" src="https://github.com/T-pritam/Currency_converter/assets/103520152/5f702553-ee79-45b4-8a5d-e5290d3748b8">
 
 ## Features:
 - Simple and intuitive interface for currency conversion.
